@@ -10,5 +10,5 @@
 		<slot />
 	</main>
 
-	<footer class="text-5xl">footer</footer>
+	<footer class="p-4 text-center">&copy;RyanLaBouve 2021</footer>
 </div>
