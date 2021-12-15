@@ -4,4 +4,9 @@
 
 body, #svelte {
   min-height: 100vh;
+  font-family: 'Ubuntu', sans-serif;
+}
+
+.heading {
+  font-family: 'Eczar', serif;
 }

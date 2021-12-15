@@ -18,6 +18,6 @@
 	<title>About</title>
 </svelte:head>
 
-<div class="content">
+<div class="max-w-7xl mx-auto py-16 px-4">
 	<h1>TODO: do an about</h1>
 </div>
