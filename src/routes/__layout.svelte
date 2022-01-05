@@ -81,7 +81,7 @@
 						</a>
 					</div>
 					<p class="mt-8 text-base text-gray-400 md:mt-0 md:order-1">
-						© 2020 RyanLaBouve. Most rights reserved.
+						© 2020 too RyanLaBouve. Most rights reserved.
 					</p>
 				</div>
 			</div>

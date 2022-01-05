@@ -23,7 +23,7 @@
 				</p>
 			</div>
 			<a
-				href="#"
+				href="/disasters"
 				class="mt-6 inline-flex items-center justify-center px-5 py-3 border border-transparent text-base font-medium rounded-md text-gray-900 bg-white hover:bg-gray-50"
 			>
 				Disasters
@@ -62,7 +62,7 @@
 				</p>
 			</div>
 			<a
-				href="#"
+				href="/security-and-web3"
 				class="mt-6 inline-flex items-center justify-center px-5 py-3 border border-transparent text-base font-medium rounded-md text-gray-900 bg-white hover:bg-gray-50"
 			>
 				Read more

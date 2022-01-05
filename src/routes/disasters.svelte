@@ -19,26 +19,7 @@
 </svelte:head>
 
 <div class="max-w-7xl mx-auto py-16 px-4 prose text-gray-400 lg:grid grid-cols-3 gap-3">
-	<div class="">
-		<div class="tri w-60 h-60 bg-red-400 m-auto lg:mt-24" />
-	</div>
-	<div class="">
-		<p>About pages are pre-death eulagies. So here it goes.</p>
-		<p>
-			<span class="font-bold">My Faith—</span>Man had fallen. Jesus redeemed us. So I follow him.
-			I'm not perfect but I do my best.
-		</p>
-		<p><span>My Life—</span>Family Man. I'm lucky to have them.</p>
-		<p>
-			<span>My Purpose—</span>Fighting disasters is what keeps me up at night and gets me up in the
-			morning.
-		</p>
-		<p>
-			<span>My Profession—</span>Computers pays the bills. I'm always building something. Hopefully
-			it's the future.
-		</p>
-	</div>
-	<div />
+	disasters
 </div>
 
 <style>
