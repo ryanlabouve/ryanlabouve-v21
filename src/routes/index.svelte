@@ -7,7 +7,7 @@
 </script>
 
 <svelte:head>
-	<title>Home</title>
+	<title>RyanLaBouve.com</title>
 </svelte:head>
 
 <div class="max-w-7xl mx-auto py-16 px-4">
@@ -15,7 +15,7 @@
 		<div class=" bg-gray-800 pt-10 pb-12 px-6 sm:pt-16 sm:px-16 lg:py-16 lg:pr-0 xl:py-20 xl:px-20">
 			<div class="lg:self-center">
 				<h2 class="text-3xl font-extrabold text-white sm:text-4xl">
-					<span class="block heading">Disasters & Demoition</span>
+					<span class="block heading">Disasters & Demolition</span>
 				</h2>
 				<p class="mt-4 text-lg leading-6 text-indigo-200">
 					I'm a software engineer who has spent the past few years diving into disaster relief,

@@ -8,7 +8,12 @@
 			<li class="mr-6" class:active={$page.path === '/'}>
 				<a sveltekit:prefetch class="heading text-xl font-bold" href="/">RyanLaBouve</a>
 			</li>
-			<li class:active={$page.path === '/about'}><a sveltekit:prefetch href="/about">About</a></li>
+			<li class="mr-3" class:active={$page.path === '/about'}>
+				<a sveltekit:prefetch href="/about">About</a>
+			</li>
+			<li class:active={$page.path === '/projects'}>
+				<a sveltekit:prefetch href="/projects">Projects</a>
+			</li>
 		</ul>
 		<div class="flex-grow" />
 		<ul class="flex">
