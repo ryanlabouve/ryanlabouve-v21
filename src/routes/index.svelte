@@ -18,8 +18,7 @@
 					<span class="block heading">Disasters & Demolition</span>
 				</h2>
 				<p class="mt-4 text-lg leading-6 text-indigo-200">
-					I'm a software engineer who has spent the past few years diving into disaster relief,
-					security, and web3.
+					Relief work from disaters like tornadoes and hurricanes and running commercial demolition.
 				</p>
 				<div class=" flex justify-center align-middle">
 					<svg
@@ -59,8 +58,7 @@
 					<span class="block heading">Security & Web3</span>
 				</h2>
 				<p class="mt-4 text-lg leading-6 text-indigo-200">
-					I'm a software engineer who has spent the past few years diving into disaster relief,
-					security, and web3.
+					I'm a software engineer who has spent the past few years diving into security, and web3.
 				</p>
 				<div class="flex justify-center align-middle">
 					<svg

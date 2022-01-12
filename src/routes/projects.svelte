@@ -24,5 +24,6 @@
 	<div class="" />
 	<div class="col-span-2">
 		<h2>Startup.Dev</h2>
+		<p>My main gig! Will write more soon.</p>
 	</div>
 </div>
