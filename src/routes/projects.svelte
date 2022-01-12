@@ -18,6 +18,11 @@
 	<title>RyanLaBouve: Projects</title>
 </svelte:head>
 
-<div class="max-w-7xl mx-auto py-16 px-4 prose text-gray-400 lg:grid grid-cols-3 gap-3">
-	<div>Projects</div>
+<div
+	class="max-w-7xl mx-auto py-16 px-4 prose lg:prose-xl text-gray-200 lg:grid grid-cols-3  gap-12 dark:prose-invert"
+>
+	<div class="" />
+	<div class="col-span-2">
+		<h2>Startup.Dev</h2>
+	</div>
 </div>

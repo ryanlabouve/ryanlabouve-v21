@@ -1,6 +1,10 @@
 <script lang="ts">
 	import Header from '$lib/header/Header.svelte';
 	import '../app.css';
+
+	async function submitForm() {
+		alert("I haven't done this yet! DM me on twitter @ryanlabouve and I'll send you a dollar.");
+	}
 </script>
 
 <div class="dark:bg-gray-900 dark:text-gray-200 flex flex-col" style="min-height: 100vh;">
@@ -23,10 +27,13 @@
 							Subscribe to my newsletter
 						</h3>
 						<p class="mt-2 text-base text-gray-500">
-							I do not have a newsletter. But put in your email and maybe I'll send you s
+							Read about disasters recovery, web3, and shenanigans.
 						</p>
 					</div>
-					<form class="mt-4 sm:flex sm:max-w-md lg:mt-0">
+					<form
+						class="mt-4 sm:flex sm:max-w-md lg:mt-0"
+						on:submit|preventDefault={() => submitForm()}
+					>
 						<label for="email-address" class="sr-only">Email address</label>
 						<input
 							type="email"
